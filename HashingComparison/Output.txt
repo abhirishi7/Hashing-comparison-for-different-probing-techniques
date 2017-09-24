@@ -1,0 +1,32 @@
+					                         --------Case for m = 1223--------
+
+                          Linear probing             Quadratic probing                Double hashing
+
+Total Keys Inserted                 1100                          1100                          1100
+Running Time                    39 msecs                      38 msecs                      29 msecs
+Probe Count                         5194                          4657                          1292
+Initial Collision                    435                           426                           434
+
+
+
+
+					                         --------Case for m = 1831--------
+
+                          Linear probing             Quadratic probing                Double hashing
+
+Total Keys Inserted                 1100                          1100                          1100
+Running Time                    35 msecs                      23 msecs                      23 msecs
+Probe Count                          675                           610                           471
+Initial Collision                    286                           284                           291
+
+
+
+
+											 --------Case for m = 2447--------
+
+                          Linear probing             Quadratic probing                Double hashing
+
+Total Keys Inserted                 1100                          1100                          1100
+Running Time                    16 msecs                      14 msecs                      15 msecs
+Probe Count                          348                           321                           291
+Initial Collision                    206                           200                           207
